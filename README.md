@@ -1,6 +1,6 @@
-# Flashcard Learning Tool
+# Flashcard Feature App
 
-Welcome to the Flashcard Learning Tool! This application helps users create, manage, and study flashcards. It features a React frontend and a Node.js backend, with MySQL used for database management.
+This application helps users create, manage, and study flashcards. It features a React frontend and a Node.js backend, with MySQL used for database management.
 
 ## Table of Contents
 

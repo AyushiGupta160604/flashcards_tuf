@@ -18,7 +18,7 @@ This application helps users create, manage, and study flashcards. It features a
 
 ## Live Demo
 
-Check out the live demo of the application [here]().
+Check out the live demo of the application [here](https://drive.google.com/file/d/1A0Gp-MTSH6g4FF6NqF535c6oyZCbZGfG/view?usp=sharing).
 
 ## Screenshots
 - Admin Dashboard preview:

@@ -1,0 +1,21 @@
+.app {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background: beige;
+  }
+  
+  .dashboard {
+    max-width: 1800px;
+    text-align: center;
+    margin-left: 15%;
+    padding: 5%;
+  }
+  
+  .flashcard-list {
+    margin-top: 20px;
+  }
+  
+  .flashcard-list div {
+    margin-bottom: 10px;
+  }  

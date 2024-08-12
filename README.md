@@ -22,12 +22,15 @@ Check out the live demo of the application [here](https://drive.google.com/file/
 
 ## Screenshots
 - Admin Dashboard preview:
+  
   ![Admin dashboard](https://github.com/AyushiGupta160604/flashcards_tuf/blob/main/Project%20Preview/adminDashboard.png)
 
 - Flashcards view:
+  
   ![flashcard-front](https://github.com/AyushiGupta160604/flashcards_tuf/blob/main/Project%20Preview/flashcard%20front.png)
 
 - Flashcard back:
+  
   ![Flashcard-back](https://github.com/AyushiGupta160604/flashcards_tuf/blob/main/Project%20Preview/flashcard%20back.png)
 
 ## Tech Stack
